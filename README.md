@@ -20,7 +20,7 @@ Currently, two official plugins are available:
 - Go to Actions - Check Pages build and deployed
   ![image](https://github.com/user-attachments/assets/938c88f0-8617-4c14-80c9-7151582945db)
 
-- Go to Settings - Pages - Click Visit Now
+- Go to Settings - Pages - Click Visit Site
 
 
 

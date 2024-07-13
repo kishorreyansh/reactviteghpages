@@ -18,6 +18,8 @@ Currently, two official plugins are available:
 - ![image](https://github.com/user-attachments/assets/f386ca43-39a5-411d-82ba-4509d1fbe017)
 - ![image](https://github.com/user-attachments/assets/54432da5-0de7-48c9-b12c-de7b96f77108)
 - Go to Actions - Check Pages build and deployed
+  ![image](https://github.com/user-attachments/assets/938c88f0-8617-4c14-80c9-7151582945db)
+
 - Go to Settings - Pages - Click Visit Now
 
 
